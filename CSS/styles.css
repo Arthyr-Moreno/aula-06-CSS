@@ -1,4 +1,53 @@
+*{
+    background-color: blue;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+
+.background{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/download.jpg);
+}
+
+
+#cabecalho{
+
+    font-size: larger;
+    display: flex;
+    color: rgb(12, 12, 12);
+    
+    
+
+}
+
 p{
+    border-radius: 50%;
+    font-style: italic;
     color : blueviolet;
     padding: 30px;
+    background-color: rgba(0, 0, 0, 0.872);
+    
 }
+#main-page{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#2ecc71;
+    padding: 30px;
+}
+.my-content{
+    color: red;
+}
+.my-content-color1{
+    padding: 20px;
+    background-color: #2ecc71;
+}
+    .my-content-color2{
+
+        
+        background-color: #e60202;
+    }
+
+
